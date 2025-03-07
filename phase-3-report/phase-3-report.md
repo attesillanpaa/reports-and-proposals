@@ -28,7 +28,7 @@ funding partners:
   Science, Finland) to support the project manager and to chair the steering
   group. NeIC also provided administrative coordination following the [PPS
   model](https://www.tietoevry.com/en/create/pps/), set up collaboration- and
-  service agreeements, and processed invoices.
+  service agreements, and processed invoices.
 
 - [Aalto University, Finland](https://scicomp.aalto.fi/about/science-it/): 6
   PM/year for lesson development, instructing, helping, outreach, streaming
@@ -56,7 +56,7 @@ funding partners:
 
 - [National Academic Infrastructure for Supercomputing in Sweden
   (NAISS)](https://www.naiss.se/): 6 PM/year.
-  NAISS and has supported CodeRefinery by providing
+  NAISS has supported CodeRefinery by providing
   teachers and helpers for CodeRefinery events as part of NAISS training.
   Staff based in Sweden has over the years contributed to lesson development,
   teaching, and hosting of individual events, on-site as well as online.
